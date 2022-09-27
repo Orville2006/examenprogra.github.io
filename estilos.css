@@ -1,0 +1,88 @@
+*{
+        box-sizing: border-box;
+        margin: 0; padding: 0;
+}
+body{
+        padding: 30px;
+        background-image: url(./JavascriptbySoyHorizonte.jpg);
+        background-size: 100% 100%;
+}
+h1{
+        text-align: center;
+}
+a{
+        text-decoration: none;
+        color: white;
+        line-height: 1.5;
+}
+li{
+        list-style-type: none;
+}
+
+.l1{
+        position: fixed;
+        margin-left: 50px;
+        width: 160px;
+        height: 285px;
+        background-color: rgb(27, 72, 255,0.7);
+        border-radius: 15px;
+        box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.l2{
+        position: absolute;
+        margin-left: 250px;
+        width: 160px;
+        height: 285px;
+        background-color: rgb(27, 72, 255,0.7);
+        border-radius: 15px;
+        box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5);
+        
+}
+
+.l3{
+        position: absolute;
+        margin-left: 450px;
+        width: 160px;
+        height: 285px;
+        background-color: rgb(27, 72, 255,0.7);
+        border-radius: 15px;
+        box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.l4{
+        position: absolute;
+        margin-left: 650px;
+        width: 160px;
+        height: 285px;
+        background-color: rgb(27, 72, 255,0.7);
+        border-radius: 15px;
+        box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.l5{
+        position: absolute;
+        margin-left: 850px;
+        width: 160px;
+        height: 285px;
+        background-color: rgb(27, 72, 255,0.7);
+        border-radius: 15px;
+        box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.lista{
+        text-align: center;
+        padding: 30px;
+}
+p{
+        width: 160px;
+        height: 20px;
+        color: white;
+        background-color: rgb(12, 25, 74);
+        border-radius: 5px;
+}
+li:hover{
+        font-size: 20px;
+}
+
+li a:hover{
+        color: black;
+}

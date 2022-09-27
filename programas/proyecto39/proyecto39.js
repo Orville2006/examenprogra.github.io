@@ -1,0 +1,1 @@
+var variable = parseFloat(document.getElementById('var1').value);

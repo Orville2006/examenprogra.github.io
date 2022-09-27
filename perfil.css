@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #889ec8;
+  }
+
+  .card {
+    margin: 5px;
+    width: 400px;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: 25px;
+  }
+  
+  header {
+    width: 100%;
+    height: 200px;
+    position: relative;
+  }
+  
+  header img {
+    width: 100%;
+    height: 199px;
+  }
+  
+  section {
+    background-color: antiquewhite;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  
+
+  footer {
+    width: 100%;
+    height: 80px;
+    background: black;
+    color: white;
+    position: relative;
+  }
+  
+  footer p {
+    padding: 30px;
+    
+  }
+  
